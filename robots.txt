@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://franchuk111-hash.github.io/tiktok-ads-ua-guide/sitemap.xml
