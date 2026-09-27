@@ -1,0 +1,57 @@
+# TikTok Ads Україна
+
+> Інформаційний ресурс про рекламу в TikTok для українського бізнесу: налаштування кампаній, формати, бюджети, аналітика, оплата з України. Матеріали українською мовою, з посиланнями на офіційну довідку TikTok.
+
+## Основне
+- [Головна](https://tiktok-ads.com.ua/): огляд можливостей TikTok Ads для бізнесу в Україні
+- [Як почати рекламу в TikTok](https://tiktok-ads.com.ua/pochaty/): покроковий запуск кампанії
+- [Скільки коштує реклама в TikTok](https://tiktok-ads.com.ua/tsina/): мінімальні бюджети, CPM/CPC, калькулятор
+- [Формати реклами](https://tiktok-ads.com.ua/formaty/): In-Feed, Spark Ads, TopView, Branded Effects
+- [Оплата реклами з України](https://tiktok-ads.com.ua/oplata/): валюта, картки, документи, ПДВ
+- [ПДВ і комісії при оплаті](https://tiktok-ads.com.ua/oplata/nds-ta-komisii/): реальна вартість поповнення
+
+## Гайди
+- [Реєстрація в TikTok Ads](https://tiktok-ads.com.ua/reiestratsiia/)
+- [TikTok Ads Manager](https://tiktok-ads.com.ua/tiktok-ads-manager/)
+- [TikTok Pixel](https://tiktok-ads.com.ua/tiktok-pixel/)
+- [Відстеження конверсій](https://tiktok-ads.com.ua/konversii/)
+- [Таргетинг](https://tiktok-ads.com.ua/targetovana-reklama/)
+- [Ретаргетинг](https://tiktok-ads.com.ua/retargetyng/)
+- [Lookalike аудиторії](https://tiktok-ads.com.ua/lookalike/)
+- [Креативи](https://tiktok-ads.com.ua/kreativy/)
+- [A/B тестування](https://tiktok-ads.com.ua/ab-testuvannia/)
+- [Аналітика](https://tiktok-ads.com.ua/analityka/)
+- [Spark Ads](https://tiktok-ads.com.ua/spark-ads/)
+- [Smart+ кампанії](https://tiktok-ads.com.ua/smart-plus/)
+- [TikTok Ads Library](https://tiktok-ads.com.ua/tiktok-ads-library/)
+- [Помилки та блокування](https://tiktok-ads.com.ua/problemy/)
+- [TikTok Shop в Україні](https://tiktok-ads.com.ua/tiktok-shop/)
+
+## Для галузей
+- [Малий бізнес](https://tiktok-ads.com.ua/dlia-malogo-biznesu/) · [E-commerce](https://tiktok-ads.com.ua/dlia-ecommerce/) · [Б'юті](https://tiktok-ads.com.ua/dlia-krasoty/) · [Ресторани](https://tiktok-ads.com.ua/dlia-restoraniv/) · [Послуги](https://tiktok-ads.com.ua/dlia-poslug/) · [Освіта](https://tiktok-ads.com.ua/dlia-osvity/) · [Нерухомість](https://tiktok-ads.com.ua/dlia-nerukhomosti/)
+- [Реклама в TikTok для авто](https://tiktok-ads.com.ua/dlia-avto/): салони, СТО, автопослуги, тест-драйви
+- [Реклама в TikTok для медичних послуг](https://tiktok-ads.com.ua/dlia-medytsyny/): клініки, косметологія, правила модерації
+- [Реклама в TikTok для фінансових послуг](https://tiktok-ads.com.ua/dlia-finansiv/): МФО, страхові, фінтех, правила модерації
+- [Реклама в TikTok для туризму](https://tiktok-ads.com.ua/dlia-turyzmu/): готелі, тури, глемпінги, сезонність
+- [Реклама в TikTok для IT і застосунків](https://tiktok-ads.com.ua/dlia-it/): SaaS, мобільні застосунки, інстали й ліди
+
+
+## Довідкове
+- [Блог](https://tiktok-ads.com.ua/blog/) · [FAQ](https://tiktok-ads.com.ua/faq/) · [Карта сайту](https://tiktok-ads.com.ua/karta-saitu/) · [Про нас](https://tiktok-ads.com.ua/pro-nas/) · [Контакти](https://tiktok-ads.com.ua/kontakty/)
+
+## Примітки
+- Дані про ліміти, валюти й умови платформи подаються з посиланнями на офіційну довідку TikTok; перед запуском перевіряйте актуальні умови в Ads Manager.
+- Сайт не є представництвом TikTok; це незалежний інформаційний ресурс з партнерськими посиланнями.
+
+## Автори та інфлюенсери
+- [TikTok Creator Marketplace](https://tiktok-ads.com.ua/creator-marketplace/): як бренду знайти авторів, фільтри за гео й аудиторією
+- [Інфлюенсер-маркетинг у TikTok](https://tiktok-ads.com.ua/influencer-marketing/): типи авторів, метрики, робота з блогером
+
+## Проблеми та оплата
+- [Помилка оплати (payment failed) у TikTok Ads](https://tiktok-ads.com.ua/oplata/payment-failed/): причини відхилення платежу й що перевірити
+
+## Офіційні джерела
+- [TikTok Ads Manager User Guide (березень 2026)](https://na.tiktokforbusiness.com/hubfs/ttam/TikTok_Ads_Manager_User_Guide.pdf): офіційний довідник платформи — мінімуми бюджетів, цілі кампаній, оновлення Smart+, правила оптимізації
+- [Довідковий центр TikTok Ads](https://ads.tiktok.com/help/): актуальні налаштування кабінету та вимоги
+
+Примітка: матеріали сайту написані українською, факти базуються на офіційній довідці TikTok і адаптовані під локальний ринок.
