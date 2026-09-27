@@ -50,6 +50,9 @@
 ## Проблеми та оплата
 - [Помилка оплати (payment failed) у TikTok Ads](https://tiktok-ads.com.ua/oplata/payment-failed/): причини відхилення платежу й що перевірити
 
+## Профіль бренду
+- Профіль бренду в Google Business: Business Ads Guide — TikTok Advertising (Київ) — https://maps.app.goo.gl/uiE29fyCTSDYRj7A9
+
 ## Офіційні джерела
 - [TikTok Ads Manager User Guide (березень 2026)](https://na.tiktokforbusiness.com/hubfs/ttam/TikTok_Ads_Manager_User_Guide.pdf): офіційний довідник платформи — мінімуми бюджетів, цілі кампаній, оновлення Smart+, правила оптимізації
 - [Довідковий центр TikTok Ads](https://ads.tiktok.com/help/): актуальні налаштування кабінету та вимоги
