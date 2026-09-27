@@ -1,0 +1,1 @@
+window.__t1="csp-ok";
